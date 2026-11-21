@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '丈夫蠢狀（《東華新報》1900-02-21 第2版，澳洲國家圖書館） / Zhangfu chun zhuang [A Newspaper Account
+  of a Husband''s Sudden Distress]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/trove24102706-victoria-family-police
+keywords:
+- 東華新報
+- 丈夫蠢狀
+- 精神醫學史
+- 澳洲華文報刊
+- 家屬協助
+- Tung Wah News
+- history of psychiatry
+- Chinese Australian newspapers
+- Trove
+- TEI
