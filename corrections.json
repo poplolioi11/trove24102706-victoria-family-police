@@ -1,0 +1,80 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 4,
+  "changes": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "○丈夫蠢狀　城拖利省之些爐埠有西人某甲亦既娶妻願期偕老不意某甲心",
+      "after": "○丈夫蠢狀　域拖利省之些爐埠有西人某甲亦既娶妻願期偕老不意某甲心",
+      "reason": "地名首字右部中間留口形。",
+      "source_bbox": [
+        189,
+        326,
+        445,
+        1524
+      ],
+      "source_image_sha256": "067ae0470ace4b261a4b8bbd1faa3615aedb13b21d7410fb3d8862214571eaca",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24102706"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "非頑石竟爾不靈口異擊飽儼然呆漢其妻受僱酒肆為覓蠅頭甲一日往見其妻聲稱訣絕永",
+      "after": "非頑石竟爾不靈口異繫匏儼然呆漢其妻受傭酒肆爲覓蠅頭甲一日往見其妻聲稱訣絕永",
+      "reason": "上字底部細絲末筆，下字右部包形及左部夸形可見。「傭」右為庸，並保留「爲」的原版字形。",
+      "source_bbox": [
+        189,
+        326,
+        445,
+        1524
+      ],
+      "source_image_sha256": "067ae0470ace4b261a4b8bbd1faa3615aedb13b21d7410fb3d8862214571eaca",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24102706"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 4,
+      "kind": "main",
+      "op": "replace",
+      "before": "諒有異情回家視之則不知其人何往矣速往通報巡差代為尋覓風聲揚播鄰右傳聞則謂有",
+      "after": "諒有異情回家視之則不知其人何往矣速往通報巡差代爲尋覓風聲揚播鄰右傳聞則謂有",
+      "reason": "取原版「爲」字形。",
+      "source_bbox": [
+        189,
+        326,
+        445,
+        1524
+      ],
+      "source_image_sha256": "067ae0470ace4b261a4b8bbd1faa3615aedb13b21d7410fb3d8862214571eaca",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24102706"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 5,
+      "kind": "main",
+      "op": "replace",
+      "before": "人見他直向大坑而去想此癡人似夢視死如歸或亦身赴滄波入鯤龍王宮闕矣",
+      "after": "人見他直向大坑而去想此癡人似夢視死如歸或亦身赴滄波入覲龍王宮闕矣",
+      "reason": "「入」後字左堇形、右見形，無魚部四點。",
+      "source_bbox": [
+        189,
+        326,
+        445,
+        1524
+      ],
+      "source_image_sha256": "067ae0470ace4b261a4b8bbd1faa3615aedb13b21d7410fb3d8862214571eaca",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24102706"
+    }
+  ],
+  "differences_for_future_review": [],
+  "retained_readings": []
+}

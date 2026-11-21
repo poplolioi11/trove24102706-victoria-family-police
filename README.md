@@ -4,11 +4,11 @@
 
 Zhangfu chun zhuang [A Newspaper Account of a Husband's Sudden Distress] appeared in Tung Wah News (1900-02-21). The report describes a man in Victoria whose behaviour changed suddenly. His wife checked the home and asked the police to help find him. The closing language records unverified rumours, leaving his whereabouts unresolved.
 
-## V0.1.0
+## V0.2.0
 
-完整收錄第2版此篇原題與正文 5 個原欄，全文格式為 TXT、JSON 與 TEI XML。此版固定 AI 輔助初錄，標明未定讀法。尚未經人類全文雙校。
+完整收錄第2版此篇原題與正文 5 個原欄，全文格式為 TXT、JSON 與 TEI XML。比對獨立原圖讀法後回圖裁定，採用 4 筆訂正，留存疑讀定位。
 
-TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 5 source columns on page 2. This edition preserves the first AI-assisted transcription and marks uncertainties. It has not been double proofread by human readers.
+TXT, JSON and TEI XML cover the complete separately headed article, comprising the heading and 5 source columns on page 2. An independent image reading was compared with the first transcription. Source-image adjudication adopted 4 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 
